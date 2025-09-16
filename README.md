@@ -40,6 +40,7 @@ admin.site.register(Car,CarAdmin)
 
 
 ## OUTPUT
+
 ![alt text](<Screenshot 2025-09-16 152224.png>)
 
 
